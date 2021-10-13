@@ -24,7 +24,6 @@ C:\Personal\MicroserviceStore\MicroserviceStore\DiscountGrpc\obj\Debug\net5.0\st
 C:\Personal\MicroserviceStore\MicroserviceStore\DiscountGrpc\obj\Debug\net5.0\staticwebassets\DiscountGrpc.StaticWebAssets.xml
 C:\Personal\MicroserviceStore\MicroserviceStore\DiscountGrpc\obj\Debug\net5.0\scopedcss\bundle\DiscountGrpc.styles.css
 C:\Personal\MicroserviceStore\MicroserviceStore\DiscountGrpc\obj\Debug\net5.0\DiscountGrpc.RazorTargetAssemblyInfo.cache
-C:\Personal\MicroserviceStore\MicroserviceStore\DiscountGrpc\obj\Debug\net5.0\DiscountGrpc.csproj.CopyComplete
 C:\Personal\MicroserviceStore\MicroserviceStore\DiscountGrpc\obj\Debug\net5.0\DiscountGrpc.dll
 C:\Personal\MicroserviceStore\MicroserviceStore\DiscountGrpc\obj\Debug\net5.0\ref\DiscountGrpc.dll
 C:\Personal\MicroserviceStore\MicroserviceStore\DiscountGrpc\obj\Debug\net5.0\DiscountGrpc.pdb

@@ -11,6 +11,7 @@
 	<ItemGroup>
 		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
 		<PackageReference Include="Grpc.AspNetCore" Version="2.39.0" />
+		<PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="5.0.11" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.10" />
 		<PackageReference Include="Microsoft.EntityFrameworkCore.InMemory" Version="5.0.10" />
 	</ItemGroup>
@@ -19,7 +20,7 @@
 	  <Protobuf Include="..\DiscountGrpc\Protos\discount.proto" GrpcServices="Client">
 	    <Link>Protos\discount.proto</Link>
 	  </Protobuf>
-	  <Protobuf Include="Protos\ShoppingCart.proto" GrpcServices="Server" />
+	  <Protobuf Include="Protos\shoppingCart.proto" GrpcServices="Server" />
 	</ItemGroup>
 
 </Project>

@@ -31,8 +31,15 @@ C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\obj\Debug\net5.0
 C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\obj\Debug\net5.0\staticwebassets\ShoppingCartGrpc.StaticWebAssets.xml
 C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\obj\Debug\net5.0\scopedcss\bundle\ShoppingCartGrpc.styles.css
 C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\obj\Debug\net5.0\ShoppingCartGrpc.RazorTargetAssemblyInfo.cache
-C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\obj\Debug\net5.0\ShoppingCartGrpc.csproj.CopyComplete
 C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\obj\Debug\net5.0\ShoppingCartGrpc.dll
 C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\obj\Debug\net5.0\ref\ShoppingCartGrpc.dll
 C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\obj\Debug\net5.0\ShoppingCartGrpc.pdb
 C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\obj\Debug\net5.0\ShoppingCartGrpc.genruntimeconfig.cache
+C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Personal\MicroserviceStore\MicroserviceStore\ShopingCartGrpc\obj\Debug\net5.0\ShoppingCartGrpc.csproj.CopyComplete

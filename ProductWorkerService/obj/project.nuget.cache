@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "OcBqjRHQo73Q6x7EB1TQa6YW2G2lrcg/G8ZjGCPm7BEwTkjxDQk5BSgloYuK1VQiApP6tgB56THFX5e8aQM/GQ==",
+  "dgSpecHash": "YAXO+aEIz4881MI1Wzsco5a0aTTGTsM6yiFyYkPU7N+KA78INC34/3PsqAmycI6vMGlZlNUPNkILKxunQL342w==",
   "success": true,
   "projectFilePath": "C:\\Personal\\MicroserviceStore\\MicroserviceStore\\ProductWorkerService\\ProductWorkerService.csproj",
   "expectedPackageFiles": [

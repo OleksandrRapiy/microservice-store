@@ -45,7 +45,6 @@ C:\Personal\MicroserviceStore\MicroserviceStore\ProductWorkerService\obj\Debug\n
 C:\Personal\MicroserviceStore\MicroserviceStore\ProductWorkerService\obj\Debug\net5.0\ProductWorkerService.AssemblyInfoInputs.cache
 C:\Personal\MicroserviceStore\MicroserviceStore\ProductWorkerService\obj\Debug\net5.0\ProductWorkerService.AssemblyInfo.cs
 C:\Personal\MicroserviceStore\MicroserviceStore\ProductWorkerService\obj\Debug\net5.0\ProductWorkerService.csproj.CoreCompileInputs.cache
-C:\Personal\MicroserviceStore\MicroserviceStore\ProductWorkerService\obj\Debug\net5.0\ProductWorkerService.csproj.CopyComplete
 C:\Personal\MicroserviceStore\MicroserviceStore\ProductWorkerService\obj\Debug\net5.0\ProductWorkerService.dll
 C:\Personal\MicroserviceStore\MicroserviceStore\ProductWorkerService\obj\Debug\net5.0\ref\ProductWorkerService.dll
 C:\Personal\MicroserviceStore\MicroserviceStore\ProductWorkerService\obj\Debug\net5.0\ProductWorkerService.pdb

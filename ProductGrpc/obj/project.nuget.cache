@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "ERzMk+Wx/LsYQa6nTX6BDI6pAiq01FA4IG9LzGMu7aPL2yHe3uqVqIFgbHHrQ3i0Npwj/2gVk7DB7P8pFhVkLg==",
+  "dgSpecHash": "0nIsgRcmhmcboHBBXXgpKThbHWQDxroASU8/Q1BR75E8EVTq9VKMNH6ajUqI6idzc+IMYKwyuDKFbyD1SGHlgg==",
   "success": true,
   "projectFilePath": "C:\\Personal\\MicroserviceStore\\MicroserviceStore\\ProductGrpc\\ProductGrpc.csproj",
   "expectedPackageFiles": [

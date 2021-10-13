@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dFCw2SgV/qMz0Xi5dyfs6wmXHLqg4YknFT5AH7PniXVwGFRrzde2/t25tXo6MXNal5xcXCnEK3BZFdOgmr0DNQ==",
+  "dgSpecHash": "vBcBsY0f7QDJ8kM5uUWJSYlmVY4SyQK5fP1a8YhYYWffUmxQwjadUwYi2ny3aLuZSR8xS/x6vnnMvOakrsuxig==",
   "success": true,
   "projectFilePath": "C:\\Personal\\MicroserviceStore\\MicroserviceStore\\DiscountGrpc\\DiscountGrpc.csproj",
   "expectedPackageFiles": [
